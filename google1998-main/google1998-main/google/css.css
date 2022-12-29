@@ -1,0 +1,109 @@
+.giris{
+    margin-left: 585px;
+    padding-bottom: 0px;
+    
+}
+
+.kutu1 {
+    background-color: rgb(238, 238, 238);
+    margin-left: 80px;
+    margin-right: 80px;
+    height: 66px;
+    position: relative;
+    bottom: 20px;
+    
+}
+
+.searchbox{
+    position: relative;
+    width: 100%;
+    margin-top: 20px;
+    
+}
+.yazı1{
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.main{
+    margin-left: 553px;
+    font-size: 16px;
+    margin-top: 0px;
+    border-color: rgb(118, 118, 118);
+    border-color: rgb(133, 133, 133);
+    margin-top: 0px;
+
+}
+.button1{
+    margin-left: 585px;
+}
+.button2{
+    margin-left: 590px;
+    margin: 0em;
+}
+
+.box1{
+    background-color: rgb(126, 229, 218);
+    height: 74px;
+    width: 35%;
+    text-align: center;
+    margin-left: 90px;
+    padding-top:  3px;
+    padding-bottom: 3px;
+    margin-top: 5px;
+    position: relative;
+    left: -9px;
+    bottom: 24px;
+    float: left;
+}
+.list{
+    list-style-type: none;
+    position: relative;
+    bottom: 10px;
+    left: -55px;
+    
+    
+}
+
+.box2{
+    background-color: rgb(112, 204, 194);
+    height: 80px;
+    width: 275px;
+    position: relative;
+    left: 615px;
+    bottom: 32px;
+    text-align: center;
+    
+    
+}
+
+.list2{
+    list-style-type: none;
+    position: relative;
+    bottom: 60px;
+    font-size: small;
+    right: 22px;
+}
+
+.box3{
+    background-color: rgb(98, 179, 170);
+    list-style: none;
+    position: relative;
+    left: 893px;
+    bottom: 112px;
+    height: 80px;
+    width: 548px;
+    text-align: center;
+    font-size: small;
+}
+.archive{
+    position: relative;
+    left: 5px;
+    font-size: small;
+}
+.cc{
+    text-align: center;
+    position: relative;
+    bottom: 110px;
+    font-size: small;
+}
